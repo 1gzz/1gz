@@ -11,7 +11,7 @@
 
 <h3 align="left">Message me:</h3>
 <p align="left">
-<a href="https://t.me/x7884" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="x7884" height="50" width="50" /></a>
+<a href="https://t.me/x7884" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="x7884" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Info:</h3>
