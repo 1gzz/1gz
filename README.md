@@ -1,9 +1,7 @@
-<h1 align="center">Hey there, I'm 1gz</h1>
+<h1 align="center">Hey there, I'm jxs4n</h1>
 <h3 align="center">A 16 year old from Albania :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxs4n&label=Profile%20views&color=0e75b6&style=flat" alt="jxs4n" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jxs4n" alt="jxs4n" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
