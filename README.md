@@ -7,15 +7,10 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/1gzz](https://github.com/1gzz)
-
-<h3 align="left">Message me:</h3>
-<p align="left">
-<a href="https://t.me/x7884" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="x7884" height="40" width="40" /></a>
-</p>
+- 👨‍💻 Some of my projects are available at [github.com/jxs4n](https://github.com/jxs4n), and checkout my website at [jxson.lol](https://jxson.lol).
 
 <h3 align="left">Info:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1gzz&show_icons=true&locale=en&layout=compact" alt="1gz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxs4n&show_icons=true&locale=en&layout=compact" alt="jxs4n" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1gzz&show_icons=true&locale=en" alt="1gz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxs4n&show_icons=true&locale=en" alt="jxs4n" /></p>
