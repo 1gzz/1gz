@@ -1,11 +1,11 @@
-<h1 align="center">Hey there, I'm jxs4n</h1>
-<h3 align="center">A 16 year old from Albania :D</h3>
+<h1 align="center">Hey there, I'm 1gz</h1>
+<h3 align="center">16 year old from Albania :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxs4n&label=Profile%20views&color=0e75b6&style=flat" alt="jxs4n" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **a lot of languages**
 
-- 👨‍💻 Some of my projects are available at [github.com/jxs4n](https://github.com/jxs4n), and checkout my website at [jxson.lol](https://jxson.lol).
+- 👨‍💻 Checkout my company [orihost.com](https://orihost.com).
 
 <h3 align="left">Info:</h3>
 
