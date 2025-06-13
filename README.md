@@ -5,18 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=1gzz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/1gzz">
-    <img src="https://img.shields.io/badge/GitHub-1gz-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://orihost.com">
-    <img src="https://img.shields.io/badge/OriHost-Web_Hosting-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://discord.gg/NbaeDx8kDN">
-    [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbaeDx8kDN)
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
