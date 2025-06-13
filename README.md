@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🌐 Exploring **web dev** and **various programming languages**
+- 🌐 Exploring **various programming languages**
 - 🚀 Founder of [orihost.com](https://orihost.com) — *24/7 free & paid hosting*
 - 🌍 Fluent in **English** & **Albanian**
 
