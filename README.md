@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/OriHost-Web_Hosting-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://discord.gg/NbaeDx8kDN">
-    <img src="https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2" />
+    <img src="https://img.shields.io/discord/1157346452650070136?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2" />
   </a>
 </p>
 
