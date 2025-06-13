@@ -38,4 +38,4 @@
 
 ---
 
-> _“Build something small today that’ll grow into something great tomorrow.”_ 🚀
+> _Build something small today that’ll grow into something great tomorrow._ 🚀
