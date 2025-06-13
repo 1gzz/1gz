@@ -25,13 +25,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture style="margin-right: 20px;">
+  <picture style="margin-right: 50px;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=1gzz&show_icons=true&hide_title=true&theme=default&cache_seconds=1800" 
       media="(prefers-color-scheme: light)" />
     <img src="https://github-readme-stats.vercel.app/api?username=1gzz&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
   </picture>
-  <picture style="margin-left: 20px;">
+  <picture style="margin-left: 50px;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=1gzz&layout=compact&theme=default&cache_seconds=1800" 
       media="(prefers-color-scheme: light)" />
