@@ -9,14 +9,13 @@
 
 ### 🧠 About Me
 
-- 🌐 Learning **web dev** + exploring **programming languages**
+- 🌐 Currently exploring **some programming languages**
 - 🚀 Founder of [orihost.com](https://orihost.com) – *24/7 free & paid hosting*
-- 💡 Tech + self-hosting enthusiast
 - 🌍 Fluent in **English** & **Albanian**
 
 ---
 
-### 💻 Tech Stack
+### 💻 Coding Languages
 
 - HTML • CSS • JavaScript  
 - Python • Node.js • PHP
