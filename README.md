@@ -43,7 +43,6 @@
 
 <p align="left">
   <a href="https://discord.gg/NbaeDx8kDN" target="_blank">🌐 Discord</a><br>
-  <a href="mailto:1gz@orihost.com">📧 Email Me</a>
 </p>
 
 ---
