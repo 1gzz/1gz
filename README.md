@@ -27,16 +27,16 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=1gzz&show_icons=true&hide_title=true&theme=default" 
+      srcset="https://github-readme-stats.vercel.app/api?username=1gzz&show_icons=true&hide_title=true&theme=default&cache_seconds=1800" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=1gzz&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=1gzz&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
   </picture>
   <br/>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=1gzz&layout=compact&theme=default" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=1gzz&layout=compact&theme=default&cache_seconds=1800" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1gzz&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1gzz&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
   </picture>
 </p>
 
